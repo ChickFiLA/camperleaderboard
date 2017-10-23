@@ -1,0 +1,74 @@
+
+
+h1 {
+	text-align: center;
+}
+
+.container-fluid {
+	font-family: Merriweather;
+	padding-top: 5%;
+	background-color: rgb(38, 166, 91);
+	margin: 0 auto;
+	padding-right: auto;
+	padding-left: auto;
+	width: auto;
+	padding-bottom: 5%;
+}
+
+tbody {
+	font-family: Calibri;
+}
+
+.container {
+	background-color: rgb(68,108,179);
+	width: auto;
+	padding-bottom: 2%
+	margin: auto;	
+}
+
+.wrapper {
+	text-align: center;
+}
+
+.button {
+
+	position: absolute;
+	top: 5%;
+}
+
+.table {
+	font-family: Lobster;
+	background-color: silver;
+	font-size: 20px;
+}
+
+.btn {
+
+	font-family: 'Merriweather';
+	font-weight: bold;
+	margin-bottom: 5%;
+	text-align: center;
+
+}
+
+.btn3d {
+    transition:all .08s linear;
+    position:relative;
+    outline:medium none;
+    -moz-outline-style:none;
+    border:0px;
+    margin-right:10px;
+    margin-top:15px;
+}
+.btn3d:focus {
+    outline:medium none;
+    -moz-outline-style:none;
+}
+.btn3d:active {
+    top:9px;
+}
+
+ .btn-info {
+    box-shadow:0 0 0 1px #5bc0de inset, 0 0 0 2px rgba(255,255,255,0.15) inset, 0 8px 0 0 #46b8da, 0 8px 0 1px rgba(0,0,0,0.4), 0 8px 8px 1px rgba(0,0,0,0.5);
+    background-color:#5bc0de;
+}
